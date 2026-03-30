@@ -1,0 +1,6 @@
+Rank,ProductID,ProductName,UnitPrice,UnitsSold,Revenue,StockLeft
+1,1,Americano,120.00,53,6360.00,10
+2,5,Espresso,110.00,31,3410.00,50
+3,3,Latte,145.00,27,3915.00,35
+4,2,Cappuccino,150.00,18,2700.00,30
+5,4,Mocha,160.00,14,2240.00,25
