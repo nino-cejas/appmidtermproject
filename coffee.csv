@@ -1,6 +1,6 @@
 ProductID,ProductName,Price,Stock,Sold
-1,Americano,120.00,10,53
+1,Americano,120.00,8,55
 2,Cappuccino,150.00,30,18
 3,Latte,145.00,35,27
 4,Mocha,160.00,25,14
-5,Espresso,110.00,50,31
+5,Espresso,110.00,48,38
